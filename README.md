@@ -24,3 +24,5 @@ This Repository is the breakdown of what I have learned so far. I know how to do
     <br><h2>Skills that need work:</h2>
     <ul>
       <li>CSS</li>
+      <li>Buttons/functions</li>
+      <li>Formating of Code</li>
